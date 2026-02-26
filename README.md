@@ -1,12 +1,21 @@
-# 🛍 Customer Segmentation using K-Means Clustering
+# Customer Segmentation Using K-Means Clustering
 
-## 📌 Project Overview
-This project applies Machine Learning (K-Means Clustering) on the Mall Customers dataset to segment customers based on Annual Income and Spending Score.
+## Project Overview
 
-## 🎯 Objective
-To identify distinct customer groups to help businesses target customers effectively.
+This project applies K-Means Clustering on the Mall Customers dataset to identify distinct customer segments based on Annual Income and Spending Score.
 
-## 🛠 Technologies Used
+The objective is to help businesses understand customer behavior patterns and enable targeted marketing strategies.
+
+---
+
+## Objective
+
+To identify distinct customer groups that can support strategic marketing and business decision-making.
+
+---
+
+## Technologies Used
+
 - Python
 - Pandas
 - NumPy
@@ -14,20 +23,28 @@ To identify distinct customer groups to help businesses target customers effecti
 - Seaborn
 - Scikit-learn
 
-## 📊 Methodology
-1. Data Loading & Exploration
-2. Feature Selection
+---
+
+## Methodology
+
+1. Data Loading and Exploratory Data Analysis
+2. Feature Selection (Annual Income, Spending Score)
 3. Elbow Method to determine optimal number of clusters
-4. K-Means Clustering
-5. Cluster Visualization
-
-## 📈 Result
-Identified 5 distinct customer segments with clear cluster separation and centroid visualization.
-
-## 🚀 How to Run
-1. Open the notebook in Google Colab
-2. Run all cells
-3. View the generated cluster visualization
+4. K-Means Model Implementation
+5. Cluster Visualization and Interpretation
 
 ---
-⭐ If you found this project useful, feel free to explore and contribute!
+
+## Results
+
+- Identified 5 distinct customer segments
+- Clear cluster separation observed through visualization
+- Insights useful for targeted promotions and customer retention strategies
+
+---
+
+## How to Run
+
+1. Open the notebook in Google Colab or Jupyter Notebook
+2. Install required libraries if not available
+3. Run all cells to reproduce results
