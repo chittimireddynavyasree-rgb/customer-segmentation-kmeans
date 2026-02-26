@@ -4,10 +4,12 @@
 Dataset: Mall Customers dataset (public dataset for clustering analysis)
 This project applies K-Means Clustering on the Mall Customers dataset to identify distinct customer segments based on Annual Income and Spending Score.
 The objective is to help businesses understand customer behavior patterns and enable targeted marketing strategies.
+
 ---
 ## Objective
 
 To identify distinct customer groups that can support strategic marketing and business decision-making.
+
 ---
 ## Technologies Used
 - Python
@@ -27,6 +29,7 @@ To identify distinct customer groups that can support strategic marketing and bu
 ## Results
 Identified 5 clearly separable customer segments based on income and spending behavior.  
 Insights can support targeted marketing campaigns and customer retention strategies.
+
 ---
 
 ## How to Run
